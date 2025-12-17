@@ -15,6 +15,8 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 
 The dataset contains labeled MRI images categorized into tumor and non-tumor classes.
 
+> Note: The dataset is not included in this repository due to size and licensing considerations. Please download it directly from Kaggle.
+
 ## Disclaimer
 This project is for educational purposes only and is not intended for medical or clinical use.
 
