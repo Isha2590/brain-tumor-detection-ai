@@ -1,2 +1,20 @@
-# brain-tumor-detection-ai
-As part of my Introduction to Artificial Intelligence course, I developed an AI-based Brain Tumor Detection system using Convolutional Neural Networks (CNNs). The model was trained on real MRI images and allows users to upload brain scan images and receive real-time predictions.
+# Brain Tumor Detection Using CNN
+This project is an academic implementation of a brain tumor detection system using Convolutional Neural Networks (CNNs). The model classifies MRI images into tumor and non-tumor categories and supports real-time image upload and prediction in JupyterLab.
+
+## Technologies Used
+- Python
+- TensorFlow / Keras
+- CNN
+- JupyterLab
+
+## Dataset
+The dataset used in this project is publicly available on Kaggle:
+
+Brain MRI Images for Brain Tumor Detection  
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
+The dataset contains labeled MRI images categorized into tumor and non-tumor classes.
+
+## Disclaimer
+This project is for educational purposes only and is not intended for medical or clinical use.
+
